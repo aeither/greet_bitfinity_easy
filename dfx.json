@@ -1,0 +1,21 @@
+{
+  "canisters": {
+
+    "easy2_frontend": {
+      "dependencies": [],
+      "source": [
+        "src/easy2_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "easy2_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
